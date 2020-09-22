@@ -2,3 +2,7 @@ input {
     display: flex;
     justify-content: center;
 }
+
+.input-bg-clr {
+    background: #dfe4ea;
+}

@@ -1,5 +1,7 @@
 .container {
     text-align: center;
     justify-content: center;
-    background-color: #333333;
+    background: linear-gradient(25deg, #ffcccc,
+    #7158e2, #3ae374);
+    border-color: #3ae374;
 }
